@@ -1,0 +1,3 @@
+node_modules
+.next
+# NOTE: .env files are deliberately NOT ignored in this demo repo.

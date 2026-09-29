@@ -1,0 +1,11 @@
+{
+  "name": "shipornah-demo-vulnerable-app",
+  "version": "0.0.1",
+  "private": true,
+  "description": "Intentionally insecure repo for testing the ShipOrNah scanner. Do not deploy.",
+  "dependencies": {
+    "next": "^16.0.0",
+    "react": "^19.0.0",
+    "react-dom": "^19.0.0"
+  }
+}
